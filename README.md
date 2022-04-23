@@ -5,7 +5,7 @@
 | 软件 | 版本 |
 | --- | :--: |
 | 系统 | macOS Big Sur 11.6.5 (20G527) |
-| 引导 | OpenCore v0.79 |
+| 引导 | OpenCore v0.8.0 |
 
 ### 自选硬件
 |   硬件    |   型号  |
@@ -37,6 +37,6 @@
 2. 隔空投送问题未解决，建议不要升级Monterey
 
 ### 效果图
-![关于本机.png](https://github.com/demon3434/Hackintosh-EFI-HP400G2DM/blob/main/OpenCore%20v0.7.9%20%26%20%20macOS%20Big%20Sur%2011.6.5%20(20G527)%20%26%20BCM94352Z/1.%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png "关于本机")
+![关于本机.png](https://github.com/demon3434/Hackintosh-EFI-HP400G2DM/blob/main/OpenCore%20v0.8.0%20%26%20macOS%20Big%20Sur%2011.6.5%20(20G527)%20%26%20BCM94352Z/1.%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png "关于本机")
 ![蓝牙.png](https://github.com/demon3434/Hackintosh-EFI-HP400G2DM/blob/main/OpenCore%20v0.7.9%20%26%20%20macOS%20Big%20Sur%2011.6.5%20(20G527)%20%26%20BCM94352Z/2.%E8%93%9D%E7%89%99.png "蓝牙")
 ![Hackintool系统信息.png](https://github.com/demon3434/Hackintosh-EFI-HP400G2DM/blob/main/OpenCore%20v0.7.9%20%26%20%20macOS%20Big%20Sur%2011.6.5%20(20G527)%20%26%20BCM94352Z/3.Hackintool%E7%B3%BB%E7%BB%9F%E4%BF%A1%E6%81%AF.png "Hackintool系统信息")
