@@ -34,11 +34,12 @@
 + 隔空投送，Monterey下只能接收，不能发送
 
 ### 备注
-1. PlatformInform 模拟机型，选择 iMac17,1
+1. 配置过程中，遇到休眠无法唤醒屏幕的问题，添加“HibernationFixup.kext”，没有解决。最终解决办法为：在PlatformInfo中，DataHub的机型选择“iMac17,1”，Generic的机型选择“Macmini8,1”，虽然看起来后者的处理器是8代i7，而本机实际是6代i5，但如果两者都设置为“iMac17,1”，休眠后唤醒后，主机运行，但屏幕无信号
 2. 隔空投送问题未解决，建议不要升级Monterey
 3. 开机会自检报错，每次开机都要按Enter才能重新引导进系统，ACPI中添加“SSDT-ARTC.aml”
 
 ### 效果图
 ![关于本机.png](https://github.com/demon3434/Hackintosh-EFI-HP400G2DM/blob/main/OpenCore%20v0.8.0%20%26%20macOS%20Big%20Sur%2011.6.5%20(20G527)%20%26%20BCM94352Z/1.%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png "关于本机")
+![PlatformInfo机型选择.png](https://github.com/demon3434/Hackintosh-EFI-HP400G2DM/blob/main/OpenCore%20v0.8.0%20%26%20macOS%20Big%20Sur%2011.6.5%20(20G527)%20%26%20BCM94352Z/2.PlatformInfo%E6%9C%BA%E5%9E%8B%E9%80%89%E6%8B%A9.png "PlatformInfo机型选择")
 ![蓝牙.png](https://github.com/demon3434/Hackintosh-EFI-HP400G2DM/blob/main/OpenCore%20v0.7.9%20%26%20%20macOS%20Big%20Sur%2011.6.5%20(20G527)%20%26%20BCM94352Z%20%E5%81%B6%E5%B0%94%E5%8D%A1%E9%A1%BF%EF%BC%8C%E5%BC%83%E7%94%A8/2.%E8%93%9D%E7%89%99.png "蓝牙")
-![Hackintool系统信息.png](https://github.com/demon3434/Hackintosh-EFI-HP400G2DM/blob/main/OpenCore%20v0.7.9%20%26%20%20macOS%20Big%20Sur%2011.6.5%20(20G527)%20%26%20BCM94352Z%20%E5%81%B6%E5%B0%94%E5%8D%A1%E9%A1%BF%EF%BC%8C%E5%BC%83%E7%94%A8/3.Hackintool%E7%B3%BB%E7%BB%9F%E4%BF%A1%E6%81%AF.png "Hackintool系统信息")
+![Hackintool系统信息.png](https://github.com/demon3434/Hackintosh-EFI-HP400G2DM/blob/main/OpenCore%20v0.8.0%20%26%20macOS%20Big%20Sur%2011.6.5%20(20G527)%20%26%20BCM94352Z/3.Hackintool%E7%B3%BB%E7%BB%9F%E4%BF%A1%E6%81%AF.png "Hackintool系统信息")
