@@ -26,7 +26,7 @@
 + DP接口能亮屏，VGA接口未测试
 + 睡眠可唤醒
 + USB定制，所有USB接口（含Type-C）正常
-+ Sata硬盘装Win10，OC可引导Win10
++ NVMe硬盘装Win10，OC可引导Win10
 + 引导界面图形化，开机有“duang”声音
 
 ### 缺陷
