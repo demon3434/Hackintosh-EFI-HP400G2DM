@@ -36,7 +36,7 @@
 ### 备注
 1. PlatformInform 模拟机型，选择 iMac17,1
 2. 隔空投送问题未解决，建议不要升级Monterey
-3. 开机会自检报错，每次开机都要按Enter才能重新引导进系统。勾选“Kernel-Quirks-DisableRtcChecksum”
+3. 开机会自检报错，每次开机都要按Enter才能重新引导进系统，ACPI中添加“SSDT-ARTC.aml”
 
 ### 效果图
 ![关于本机.png](https://github.com/demon3434/Hackintosh-EFI-HP400G2DM/blob/main/OpenCore%20v0.8.0%20%26%20macOS%20Big%20Sur%2011.6.5%20(20G527)%20%26%20BCM94352Z/1.%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png "关于本机")
