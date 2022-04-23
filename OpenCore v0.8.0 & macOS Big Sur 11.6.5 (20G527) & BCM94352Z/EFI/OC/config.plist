@@ -18,7 +18,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>Path</key>
 				<string>SSDT-ARTC.aml</string>
 			</dict>
@@ -144,7 +144,7 @@
 			<key>ResetHwSig</key>
 			<false/>
 			<key>ResetLogoStatus</key>
-			<true/>
+			<false/>
 			<key>SyncTableIds</key>
 			<false/>
 		</dict>
@@ -230,7 +230,7 @@
 			<key>ProvideMaxSlide</key>
 			<integer>0</integer>
 			<key>RebuildAppleMemoryMap</key>
-			<false/>
+			<true/>
 			<key>ResizeAppleGpuBars</key>
 			<integer>-1</integer>
 			<key>SetupVirtualMap</key>
@@ -427,7 +427,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/CPUFriend</string>
 				<key>MaxKernel</key>
@@ -1049,7 +1049,7 @@
 			<key>DisableLinkeditJettison</key>
 			<true/>
 			<key>DisableRtcChecksum</key>
-			<false/>
+			<true/>
 			<key>ExtendBTFeatureFlags</key>
 			<false/>
 			<key>ExternalDiskIcons</key>
@@ -1413,7 +1413,7 @@
 			<key>SystemSerialNumber</key>
 			<string>C02P5AYQGG7L</string>
 			<key>SystemUUID</key>
-			<string>5E8774E6-FAF6-4619-A489-6003F7E818E2</string>
+			<string>EFBB2960-29D1-42AE-A8AE-B7EAAF514C40</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
@@ -1436,7 +1436,7 @@
 			<key>SystemSerialNumber</key>
 			<string>C02P5AYQGG7L</string>
 			<key>SystemUUID</key>
-			<string>5E8774E6-FAF6-4619-A489-6003F7E818E2</string>
+			<string>EFBB2960-29D1-42AE-A8AE-B7EAAF514C40</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
@@ -1491,7 +1491,7 @@
 			<key>SystemSerialNumber</key>
 			<string>C02P5AYQGG7L</string>
 			<key>SystemUUID</key>
-			<string>5E8774E6-FAF6-4619-A489-6003F7E818E2</string>
+			<string>EFBB2960-29D1-42AE-A8AE-B7EAAF514C40</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
