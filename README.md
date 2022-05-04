@@ -14,7 +14,7 @@
 | CPU | Intel Core i5 6600T |
 | 内存 | 英睿达 DDR4 2666 4G*2 |
 | 硬盘 | 紫光 S100，Sata 480GB |
-| 显卡 | Intel UHD Graphics 530 |
+| 显卡 | Intel HD Graphics 530 |
 | 显示器 | DIY便携屏，4K 60Hz |
 | 声卡 | ALC221 |
 | 无线网卡 | 联想拆机卡（ngff，1个缺口），博通BCM94352Z |
